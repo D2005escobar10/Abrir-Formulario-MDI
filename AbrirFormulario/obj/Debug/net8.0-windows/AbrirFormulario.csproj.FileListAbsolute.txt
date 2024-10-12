@@ -1,0 +1,17 @@
+C:\Users\dresc\source\repos\AbrirFormulario\bin\Debug\net8.0-windows\AbrirFormulario.exe
+C:\Users\dresc\source\repos\AbrirFormulario\bin\Debug\net8.0-windows\AbrirFormulario.deps.json
+C:\Users\dresc\source\repos\AbrirFormulario\bin\Debug\net8.0-windows\AbrirFormulario.runtimeconfig.json
+C:\Users\dresc\source\repos\AbrirFormulario\bin\Debug\net8.0-windows\AbrirFormulario.dll
+C:\Users\dresc\source\repos\AbrirFormulario\bin\Debug\net8.0-windows\AbrirFormulario.pdb
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.FormularioPrincipal.resources
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.FormularioSecundario.resources
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.csproj.GenerateResource.cache
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.AssemblyInfoInputs.cache
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.AssemblyInfo.cs
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.csproj.CoreCompileInputs.cache
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.dll
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\refint\AbrirFormulario.dll
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.pdb
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\AbrirFormulario.genruntimeconfig.cache
+C:\Users\dresc\source\repos\AbrirFormulario\obj\Debug\net8.0-windows\ref\AbrirFormulario.dll
